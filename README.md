@@ -4,7 +4,7 @@
 
 Hi! I’m Sirisha, a student passionate about programming, art, and games. I enjoy exploring the intersection of technology and creativity, and I’m always eager to learn new things.
 
-- 💻 **Programming:** Experienced with Python, C/C++, Java, SQL, and some machine learning.
+- 💻 **Programming:** Experienced with Python, C/C++, Java, SQL.
 - 🎨 **Artist:** I create both traditional and digital art.
 - 👾 **Gamer:** I’m a gamer with a growing interest in game development as a hobby.
 
